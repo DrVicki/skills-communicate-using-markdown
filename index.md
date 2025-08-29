@@ -5,10 +5,11 @@
 ##### Header 5
 ###### Header 6  
 
+## Step 2: Add Image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
-## Code Blocks
+## Step 3: Code Blocks
 
 ***Example 1***
 ```
@@ -20,3 +21,10 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+## Step 4: Make a Task List
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
