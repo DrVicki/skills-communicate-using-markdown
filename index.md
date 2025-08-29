@@ -28,3 +28,9 @@ var myVar = "Hello, world!";
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
 
+## Step 5: Merge Pull Request
+
+***Activity: Merge your pull request***
+
+
+
